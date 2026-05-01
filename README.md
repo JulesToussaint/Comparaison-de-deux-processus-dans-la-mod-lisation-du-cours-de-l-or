@@ -11,3 +11,5 @@ Dans ce notebook, nous examinons les similitudes entre le cours de l'or et ces d
 - Le test d'autocorrélation
 - Le test ADF, qui cherche à savoir si une série est stationnaire
 - Le test ratio-variance
+
+[Voir le notebook](./Notebook_OU_vs_GBM__or.ipynb)
